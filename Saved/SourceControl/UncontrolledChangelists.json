@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CrystalClearGameSt/GorkaRPG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_BS.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/ABP_RPGChar.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V6/C9MD2KCUZ2GSPWVRICLLST.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouched_BS.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_BS.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O7/YEHVQL2G01NLIKTOPOHQC7.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z8/UOLO9INFIBJX56CGERMM2F.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"D:/CrystalClearGameSt/GorkaRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset"
+			]
+		}
+	]
+}
